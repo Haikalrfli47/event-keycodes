@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(230, 221, 221);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  margin: 230px auto;
+  text-align: center;
+  background-color: rgb(226, 210, 210);
+  max-width: 500px;
+  padding: 0.1em;
+  border: 1px solid #333;
+}
+
+.key {
+  float: left;
+  width: 120px;
+  margin: 0 20px;
+  height: 100px;
+  line-height: 80px;
+  text-align: center;
+  font-weight: 600;
+  background-color: rgb(228, 207, 207);
+  border: 1px solid black;
+}
+
+small {
+  position: relative;
+  top: -170px;
+}
